@@ -62,12 +62,7 @@ The final visualization was created using **Tableau**, providing an interactive 
 | `queries.sql` | SQL queries used for merging and analysis |
 | `screenshots/` | Folder containing Tableau dashboard screenshots |
 
----
 
-## 🖼️ Dashboard Preview
-[Dashboard Overview](screenshots of dashboard/Global COVID-19 Impact Analysis.png)
-
----
 
 ## 🧠 Learnings
 - Strengthened data cleaning and transformation skills using Excel and SQL.  
