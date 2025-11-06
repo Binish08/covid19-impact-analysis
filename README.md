@@ -65,7 +65,7 @@ The final visualization was created using **Tableau**, providing an interactive 
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Overview](screenshots/dashboard_overview.png)
+![Dashboard Overview](screenshots of dashboard/Global COVID-19 Impact Analysis.png)
 
 ---
 
